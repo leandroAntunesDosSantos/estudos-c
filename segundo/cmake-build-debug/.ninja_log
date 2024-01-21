@@ -1,11 +1,5 @@
 # ninja log v5
-3	2685	7257735199750209	CMakeFiles/segundo.dir/main.c.obj	a79a9e48222de8ae
-2689	4134	7257735213917119	segundo.exe	923c5f5acd0a1d2a
-9	736	7257735626135085	CMakeFiles/segundo.dir/main.c.obj	a79a9e48222de8ae
-737	1085	7257735629463030	segundo.exe	923c5f5acd0a1d2a
-7	699	7257744515376233	CMakeFiles/segundo.dir/main.c.obj	a79a9e48222de8ae
-702	1446	7257744522741730	segundo.exe	923c5f5acd0a1d2a
-9	197	7257746373978244	CMakeFiles/segundo.dir/main.c.obj	a79a9e48222de8ae
-199	554	7257746377406142	segundo.exe	923c5f5acd0a1d2a
 17	291	7257746865177430	CMakeFiles/segundo.dir/main.c.obj	a79a9e48222de8ae
 293	589	7257746868035670	segundo.exe	923c5f5acd0a1d2a
+7	1917	7257829261948908	CMakeFiles/segundo.dir/main.c.obj	a79a9e48222de8ae
+1918	3329	7257829275680944	segundo.exe	923c5f5acd0a1d2a
